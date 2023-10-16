@@ -14,6 +14,22 @@ haikus = [
     basicHaiku()
 ]
 
+function student2Haiku()
+{
+    return ["carefree raindrops drop","Racing on my window","Drip Drop they fall down."]
+}
+//zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
+
+haikus = [
+    student2Haiku()
+]
+
+
+
+
+
+
+
 function randomHaiku()
 {
 
