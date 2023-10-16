@@ -10,8 +10,14 @@ function basicHaiku()
 }
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
+function student1Haiku()
+{
+    return ["They call me Sokka","That is in the watertribe","I am not a oaf."]
+}
+
 haikus = [
     basicHaiku()
+    student1Haiku()
 ]
 
 function randomHaiku()
